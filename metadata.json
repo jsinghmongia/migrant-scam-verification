@@ -1,0 +1,6 @@
+{
+  "name": "Migrant Recruitment Scam Verifier",
+  "description": "Empowers vulnerable job seekers and rural youth to instantly check if a foreign job offer, recruitment agent, or WhatsApp message is a scam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
